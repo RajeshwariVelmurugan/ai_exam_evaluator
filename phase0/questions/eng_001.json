@@ -1,0 +1,121 @@
+{
+    "question_id": "eng_001",
+    "subject": "English",
+    "grade": "10th",
+    "question_text": "Explain the different types of tenses in English with examples.",
+    "max_marks": 10,
+    "answer_key_text": "English has three main tenses: Past, Present, and Future. Each has four aspects: Simple, Continuous, Perfect, and Perfect Continuous. For example, Simple Present: I eat. Present Continuous: I am eating. Past Simple: I ate. Future Simple: I will eat.",
+    "difficulty": "easy",
+    "topic": "English Grammar",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Three Main Tenses",
+            "description": "Names all three main tenses: Past, Present, Future",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "past",
+                "present",
+                "future",
+                "three tenses"
+            ],
+            "partial_keywords": [
+                "past",
+                "present",
+                "future"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Present Tense Forms",
+            "description": "Explains Simple Present, Present Continuous, and/or Present Perfect with example",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "simple present",
+                "present continuous",
+                "present perfect",
+                "am/is/are"
+            ],
+            "partial_keywords": [
+                "present",
+                "continuous"
+            ],
+            "examples": [
+                "I eat (Simple), I am eating (Continuous), I have eaten (Perfect)"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Past Tense Forms",
+            "description": "Explains Simple Past, Past Continuous, and/or Past Perfect with example",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "simple past",
+                "past continuous",
+                "past perfect",
+                "was/were",
+                "had"
+            ],
+            "partial_keywords": [
+                "past",
+                "ate",
+                "was"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Future Tense Forms",
+            "description": "Explains Simple Future and/or Future Continuous with example using will/shall",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "future",
+                "will",
+                "shall",
+                "going to"
+            ],
+            "partial_keywords": [
+                "future",
+                "will"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "Correct Examples",
+            "description": "Provides grammatically correct example sentences for at least 3 different tenses",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "example",
+                "sentence"
+            ],
+            "partial_keywords": [
+                "example"
+            ],
+            "common_mistakes": [
+                "Provides examples with wrong verb forms"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.6,
+        "logic_weight": 0.1,
+        "grammar_weight": 0.3,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 50,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 1.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

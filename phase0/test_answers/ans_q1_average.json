@@ -1,0 +1,10 @@
+{
+    "answer_id": "ans_q1_average",
+    "question_id": "sci_001",
+    "student_id": "stu_002",
+    "student_answer": "Photosynthesis is a process in plants. Sunlight is needed for it. Plants use carbon dioxide and water to make food. The food made is glucose. Oxygen is also released. Chlorophyll is present in leaves which helps absorb sunlight. It happens inside the leaf.",
+    "manually_graded_score": 6.0,
+    "graded_by": "teacher_1",
+    "grade_notes": "Covers definition, raw materials, products. Chlorophyll mentioned but chloroplast not named specifically. No equation. Logical flow weak.",
+    "quality": "average"
+}

@@ -1,0 +1,118 @@
+{
+    "question_id": "hist_001",
+    "subject": "History",
+    "grade": "10th",
+    "question_text": "Describe the key events that led to Indian independence in 1947.",
+    "max_marks": 10,
+    "answer_key_text": "India gained independence on August 15, 1947. Key events include the Non-Cooperation Movement (1920), Salt March (1930), Quit India Movement (1942), and the Cabinet Mission (1946). The Indian Independence Act 1947 by the British Parliament formally granted independence.",
+    "difficulty": "medium",
+    "topic": "Indian Freedom Struggle",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Date of Independence",
+            "description": "States August 15, 1947 as the date of Indian independence",
+            "marks": 1,
+            "is_required": true,
+            "partial_credit_allowed": false,
+            "keywords": [
+                "August 15",
+                "1947",
+                "independence"
+            ],
+            "partial_keywords": [
+                "1947"
+            ],
+            "common_mistakes": [
+                "States wrong year like 1945 or 1948"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Non-Cooperation Movement",
+            "description": "Mentions the Non-Cooperation Movement launched by Gandhi in 1920",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "Non-Cooperation",
+                "Gandhi",
+                "1920",
+                "boycott"
+            ],
+            "partial_keywords": [
+                "Non-Cooperation",
+                "Gandhi"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Salt March",
+            "description": "Describes the Salt March or Civil Disobedience Movement of 1930",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "Salt March",
+                "Dandi",
+                "1930",
+                "Civil Disobedience"
+            ],
+            "partial_keywords": [
+                "Salt March",
+                "Dandi"
+            ],
+            "examples": [
+                "Gandhi led the Dandi Salt March in 1930 to protest British salt tax"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Quit India Movement",
+            "description": "Mentions the Quit India Movement of 1942",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "Quit India",
+                "1942",
+                "Do or Die"
+            ],
+            "partial_keywords": [
+                "Quit India"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "Independence Act",
+            "description": "Mentions the Indian Independence Act 1947 or the formal transfer of power",
+            "marks": 3,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "Independence Act",
+                "1947",
+                "British Parliament",
+                "transfer of power",
+                "Mountbatten"
+            ],
+            "partial_keywords": [
+                "Independence Act",
+                "Parliament"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.75,
+        "logic_weight": 0.15,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 50,
+    "max_word_count": 250,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

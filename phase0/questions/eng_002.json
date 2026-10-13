@@ -1,0 +1,101 @@
+{
+    "question_id": "eng_002",
+    "subject": "English",
+    "grade": "12th",
+    "question_text": "Explain the structure of a well-written essay.",
+    "max_marks": 10,
+    "answer_key_text": "A well-written essay has three main parts: Introduction, Body, and Conclusion. The introduction presents the thesis statement. The body paragraphs each contain a topic sentence, supporting evidence, and analysis. The conclusion summarises the main points and restates the thesis.",
+    "difficulty": "easy",
+    "topic": "Essay Writing",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Three-Part Structure",
+            "description": "Names introduction, body, and conclusion as the three main parts",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "introduction",
+                "body",
+                "conclusion"
+            ],
+            "partial_keywords": [
+                "introduction",
+                "conclusion"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Introduction",
+            "description": "Explains that introduction contains the thesis statement and hooks the reader",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "thesis statement",
+                "introduction",
+                "hook",
+                "topic"
+            ],
+            "partial_keywords": [
+                "thesis",
+                "introduction"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Body Paragraphs",
+            "description": "Explains body paragraphs contain topic sentence, evidence, and analysis",
+            "marks": 3,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "topic sentence",
+                "evidence",
+                "analysis",
+                "body paragraph",
+                "supporting"
+            ],
+            "partial_keywords": [
+                "topic sentence",
+                "evidence"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Conclusion",
+            "description": "Explains conclusion summarises main points and restates the thesis",
+            "marks": 3,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "conclusion",
+                "summarise",
+                "restate",
+                "thesis",
+                "summary"
+            ],
+            "partial_keywords": [
+                "conclusion",
+                "summarise"
+            ],
+            "common_mistakes": [
+                "Says conclusion introduces new arguments"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.5,
+        "logic_weight": 0.2,
+        "grammar_weight": 0.3,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 40,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 1.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

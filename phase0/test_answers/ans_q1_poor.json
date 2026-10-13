@@ -1,0 +1,12 @@
+{
+    "answer_id": "ans_q1_poor",
+    "question_id": "sci_001",
+    "student_id": "stu_003",
+    "student_answer": "Photosynthesis does not happen in sunlight. Plants use magic to convert air into food. The equation is H2O + CO2 → C6H12O6.",
+    "manually_graded_score": 0.5,
+    "graded_by": "teacher_1",
+    "grade_notes": "Multiple contradictions and hallucination. Says photosynthesis doesn't need sunlight (major error). Introduces 'magic' (hallucination). Incorrect equation. Only partial credit for mentioning CO2 and H2O.",
+    "quality": "poor",
+    "flag": true,
+    "flag_reason": "Hallucination detected - 'magic', Contradiction - 'does not happen in sunlight'"
+}

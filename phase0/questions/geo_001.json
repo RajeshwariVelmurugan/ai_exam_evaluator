@@ -1,0 +1,121 @@
+{
+    "question_id": "geo_001",
+    "subject": "Geography",
+    "grade": "10th",
+    "question_text": "Explain the causes and importance of the monsoon in India.",
+    "max_marks": 10,
+    "answer_key_text": "The monsoon is caused by differential heating of land and sea. In summer, the land heats up faster than the sea, creating a low-pressure zone over India that draws moist winds from the Indian Ocean. The monsoon brings about 75% of India's annual rainfall and is vital for agriculture.",
+    "difficulty": "medium",
+    "topic": "Climate of India",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Differential Heating",
+            "description": "Explains that differential heating of land and sea causes the monsoon",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "differential heating",
+                "land",
+                "sea",
+                "temperature difference"
+            ],
+            "partial_keywords": [
+                "heating",
+                "land",
+                "sea"
+            ],
+            "common_mistakes": [
+                "Reverses — says sea heats faster than land"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Low Pressure Formation",
+            "description": "States that low pressure forms over India due to intense summer heating",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "low pressure",
+                "summer",
+                "India",
+                "Thar desert"
+            ],
+            "partial_keywords": [
+                "low pressure",
+                "summer"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Moist Winds",
+            "description": "Explains that moist winds blow from the Indian Ocean towards the low-pressure area",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "Indian Ocean",
+                "moist winds",
+                "southwest monsoon",
+                "moisture"
+            ],
+            "partial_keywords": [
+                "Indian Ocean",
+                "winds"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Agricultural Importance",
+            "description": "States that monsoon provides about 75% of India's annual rainfall vital for agriculture",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "agriculture",
+                "rainfall",
+                "75%",
+                "crops",
+                "farming"
+            ],
+            "partial_keywords": [
+                "agriculture",
+                "rainfall"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "Onset and Withdrawal",
+            "description": "Mentions the onset (June) and withdrawal (September) of monsoon",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "June",
+                "September",
+                "onset",
+                "withdrawal",
+                "Kerala"
+            ],
+            "partial_keywords": [
+                "June",
+                "onset"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.7,
+        "logic_weight": 0.2,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 40,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

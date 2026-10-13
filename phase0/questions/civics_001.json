@@ -1,0 +1,120 @@
+{
+    "question_id": "civics_001",
+    "subject": "Civics",
+    "grade": "10th",
+    "question_text": "Explain any four Fundamental Rights guaranteed by the Indian Constitution.",
+    "max_marks": 10,
+    "answer_key_text": "The Indian Constitution guarantees six Fundamental Rights: Right to Equality (Art 14-18), Right to Freedom (Art 19-22), Right against Exploitation (Art 23-24), Right to Freedom of Religion (Art 25-28), Cultural and Educational Rights (Art 29-30), Right to Constitutional Remedies (Art 32).",
+    "difficulty": "easy",
+    "topic": "Indian Constitution",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Right to Equality",
+            "description": "Explains Right to Equality — no discrimination based on religion, race, caste, sex",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "equality",
+                "Article 14",
+                "discrimination",
+                "caste",
+                "religion"
+            ],
+            "partial_keywords": [
+                "equality",
+                "discrimination"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Right to Freedom",
+            "description": "Explains Right to Freedom — freedom of speech, expression, movement, assembly",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "freedom",
+                "speech",
+                "expression",
+                "Article 19",
+                "movement"
+            ],
+            "partial_keywords": [
+                "freedom",
+                "speech"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Right against Exploitation",
+            "description": "Explains Right against Exploitation — no child labour, no forced labour",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "exploitation",
+                "child labour",
+                "forced labour",
+                "Article 23",
+                "Article 24"
+            ],
+            "partial_keywords": [
+                "exploitation",
+                "child labour"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Right to Constitutional Remedies",
+            "description": "Explains Right to Constitutional Remedies — right to approach Supreme Court for enforcement",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "constitutional remedies",
+                "Article 32",
+                "Supreme Court",
+                "writ"
+            ],
+            "partial_keywords": [
+                "remedies",
+                "Article 32"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "Correct Count",
+            "description": "Clearly identifies at least 4 different Fundamental Rights with brief explanation each",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "four",
+                "fundamental rights",
+                "constitution"
+            ],
+            "partial_keywords": [
+                "rights",
+                "constitution"
+            ],
+            "common_mistakes": [
+                "Lists only 2 or 3 rights, or repeats same right twice"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.8,
+        "logic_weight": 0.1,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 60,
+    "max_word_count": 250,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 1.5,
+    "version": "1.0",
+    "created_by": "teacher"
+}

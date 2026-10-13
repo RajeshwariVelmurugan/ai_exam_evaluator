@@ -1,0 +1,54 @@
+# Environment variables & secrets (CRITICAL: Do NOT commit!)
+.env
+.env.*
+*.env
+ai-exam-evaluator-*.json
+*credentials*.json
+*service_account*.json
+*.pem
+*.key
+
+# Exclude README as requested by user
+README.md
+README
+
+# Python & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Personal / Test binary documents
+test_images/*.pdf
+
+# Node & Frontend Build
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.cache/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

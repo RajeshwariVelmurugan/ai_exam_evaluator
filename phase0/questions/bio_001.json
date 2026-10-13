@@ -1,0 +1,106 @@
+{
+    "question_id": "bio_001",
+    "subject": "Biology",
+    "grade": "11th",
+    "question_text": "Differentiate between mitosis and meiosis.",
+    "max_marks": 10,
+    "answer_key_text": "Mitosis produces 2 identical daughter cells and is used for growth and repair. Meiosis produces 4 genetically different cells and is used for sexual reproduction. Mitosis maintains chromosome number while meiosis halves it.",
+    "difficulty": "medium",
+    "topic": "Cell Division",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Mitosis Definition",
+            "description": "Defines mitosis as division producing 2 genetically identical daughter cells",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "mitosis",
+                "2 cells",
+                "identical",
+                "diploid"
+            ],
+            "partial_keywords": [
+                "mitosis",
+                "identical"
+            ],
+            "common_mistakes": [
+                "Says mitosis produces 4 cells"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Meiosis Definition",
+            "description": "Defines meiosis as division producing 4 genetically different haploid cells",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "meiosis",
+                "4 cells",
+                "haploid",
+                "genetically different"
+            ],
+            "partial_keywords": [
+                "meiosis",
+                "4 cells"
+            ],
+            "common_mistakes": [
+                "Says meiosis produces 2 cells"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Purpose",
+            "description": "States mitosis is for growth/repair and meiosis is for sexual reproduction",
+            "marks": 3,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "growth",
+                "repair",
+                "sexual reproduction",
+                "gametes"
+            ],
+            "partial_keywords": [
+                "growth",
+                "reproduction"
+            ],
+            "common_mistakes": [
+                "Swaps the purpose — says mitosis is for reproduction"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Chromosome Number",
+            "description": "States mitosis maintains chromosome number (diploid) while meiosis halves it (haploid)",
+            "marks": 3,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "diploid",
+                "haploid",
+                "chromosome number",
+                "halved"
+            ],
+            "partial_keywords": [
+                "chromosome",
+                "haploid"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.65,
+        "logic_weight": 0.25,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 40,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

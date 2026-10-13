@@ -1,0 +1,111 @@
+{
+    "question_id": "chem_001",
+    "subject": "Chemistry",
+    "grade": "10th",
+    "question_text": "Explain the properties of acids and bases and describe neutralisation reaction.",
+    "max_marks": 10,
+    "answer_key_text": "Acids are substances that release H+ ions in water and have a pH less than 7. Bases release OH- ions and have pH greater than 7. In a neutralisation reaction, an acid reacts with a base to form salt and water.",
+    "difficulty": "medium",
+    "topic": "Acids and Bases",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Acid Properties",
+            "description": "States that acids release H+ ions and have pH less than 7",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "H+",
+                "hydrogen ions",
+                "pH less than 7",
+                "acidic"
+            ],
+            "partial_keywords": [
+                "H+",
+                "pH"
+            ],
+            "common_mistakes": [
+                "Says acids have pH greater than 7"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Base Properties",
+            "description": "States that bases release OH- ions and have pH greater than 7",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "OH-",
+                "hydroxide ions",
+                "pH greater than 7",
+                "basic",
+                "alkaline"
+            ],
+            "partial_keywords": [
+                "OH-",
+                "pH"
+            ],
+            "common_mistakes": [
+                "Says bases have pH less than 7"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Neutralisation Definition",
+            "description": "Defines neutralisation as a reaction between acid and base to form salt and water",
+            "marks": 3,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "neutralisation",
+                "acid",
+                "base",
+                "salt",
+                "water"
+            ],
+            "partial_keywords": [
+                "salt",
+                "water"
+            ],
+            "examples": [
+                "HCl + NaOH → NaCl + H2O is a neutralisation reaction"
+            ],
+            "common_mistakes": [
+                "Says neutralisation produces only water, forgetting salt"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "pH Scale",
+            "description": "Correctly describes the pH scale — 7 is neutral, below 7 acidic, above 7 basic",
+            "marks": 3,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "pH 7",
+                "neutral",
+                "scale",
+                "0 to 14"
+            ],
+            "partial_keywords": [
+                "pH",
+                "neutral"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.7,
+        "logic_weight": 0.2,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 40,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

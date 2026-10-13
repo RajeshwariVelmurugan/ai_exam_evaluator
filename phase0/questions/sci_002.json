@@ -1,0 +1,129 @@
+{
+    "question_id": "sci_002",
+    "subject": "Science",
+    "grade": "10th",
+    "question_text": "Describe the human respiratory system and explain how gas exchange occurs.",
+    "max_marks": 10,
+    "answer_key_text": "The human respiratory system includes the nose, trachea, bronchi, bronchioles, and lungs. Air enters through the nose, passes through the trachea, and reaches the alveoli in the lungs. Gas exchange occurs in the alveoli where oxygen diffuses into the blood and carbon dioxide diffuses out.",
+    "difficulty": "medium",
+    "topic": "Human Physiology",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Organs",
+            "description": "Names at least 3 key organs: nose, trachea, bronchi, lungs, alveoli",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "nose",
+                "trachea",
+                "bronchi",
+                "lungs",
+                "alveoli"
+            ],
+            "partial_keywords": [
+                "lungs",
+                "trachea"
+            ],
+            "examples": [
+                "The respiratory system consists of the nose, trachea, bronchi, and lungs"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Air Pathway",
+            "description": "Describes the correct pathway of air from nose to lungs",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "nose",
+                "trachea",
+                "bronchi",
+                "bronchioles",
+                "alveoli"
+            ],
+            "partial_keywords": [
+                "trachea",
+                "lungs"
+            ],
+            "common_mistakes": [
+                "Reverses the pathway, stating air goes from lungs to nose first"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Gas Exchange Site",
+            "description": "States that gas exchange occurs in the alveoli",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": false,
+            "keywords": [
+                "alveoli",
+                "gas exchange"
+            ],
+            "partial_keywords": [
+                "alveoli"
+            ],
+            "common_mistakes": [
+                "Says gas exchange occurs in the trachea or bronchi"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Oxygen Diffusion",
+            "description": "Explains that oxygen diffuses from alveoli into the bloodstream",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "oxygen",
+                "diffuses",
+                "blood",
+                "bloodstream"
+            ],
+            "partial_keywords": [
+                "oxygen",
+                "blood"
+            ],
+            "common_mistakes": [
+                "Says oxygen moves from blood to alveoli (reversal)"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "CO2 Removal",
+            "description": "Explains that carbon dioxide diffuses from blood into alveoli and is exhaled",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "carbon dioxide",
+                "CO2",
+                "exhaled",
+                "diffuses out"
+            ],
+            "partial_keywords": [
+                "carbon dioxide",
+                "exhaled"
+            ],
+            "common_mistakes": [
+                "Says CO2 is absorbed by blood from alveoli (reversal)"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.7,
+        "logic_weight": 0.2,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 40,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

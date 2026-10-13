@@ -1,0 +1,110 @@
+{
+    "question_id": "phy_001",
+    "subject": "Physics",
+    "grade": "11th",
+    "question_text": "State and explain Newton's three laws of motion with examples.",
+    "max_marks": 10,
+    "answer_key_text": "Newton's First Law: An object remains at rest or in uniform motion unless acted upon by an external force. Second Law: Force equals mass times acceleration (F=ma). Third Law: For every action there is an equal and opposite reaction.",
+    "difficulty": "medium",
+    "topic": "Laws of Motion",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "First Law",
+            "description": "States Newton's First Law — object stays at rest or motion unless external force acts",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "inertia",
+                "rest",
+                "uniform motion",
+                "external force"
+            ],
+            "partial_keywords": [
+                "inertia",
+                "rest"
+            ],
+            "examples": [
+                "A ball remains at rest until kicked — this is Newton's First Law of inertia"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Second Law",
+            "description": "States Newton's Second Law — F = ma, force is proportional to acceleration",
+            "marks": 3,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "F=ma",
+                "force",
+                "mass",
+                "acceleration",
+                "proportional"
+            ],
+            "partial_keywords": [
+                "force",
+                "acceleration"
+            ],
+            "examples": [
+                "F = ma means more force on same mass gives more acceleration"
+            ],
+            "common_mistakes": [
+                "Writes F = m/a or reverses the relationship"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Third Law",
+            "description": "States Newton's Third Law — every action has equal and opposite reaction",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "action",
+                "reaction",
+                "equal",
+                "opposite"
+            ],
+            "partial_keywords": [
+                "action",
+                "reaction"
+            ],
+            "common_mistakes": [
+                "Says action is greater than reaction"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Examples",
+            "description": "Provides at least one correct real-world example for any one law",
+            "marks": 3,
+            "is_required": false,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "example",
+                "rocket",
+                "car",
+                "ball",
+                "swimming"
+            ],
+            "partial_keywords": [
+                "example"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.65,
+        "logic_weight": 0.25,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 50,
+    "max_word_count": 250,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}

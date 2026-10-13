@@ -1,0 +1,127 @@
+{
+    "question_id": "sci_001",
+    "subject": "Science",
+    "grade": "10th",
+    "question_text": "Explain the process of photosynthesis.",
+    "max_marks": 10,
+    "answer_key_text": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose and oxygen. It occurs in the chloroplasts, where chlorophyll absorbs light energy. The overall equation is: 6CO2 + 6H2O + Light Energy → C6H12O6 + 6O2.",
+    "difficulty": "medium",
+    "topic": "Plant Physiology",
+    "rubric_points": [
+        {
+            "point_id": "p1",
+            "concept": "Definition",
+            "description": "Defines photosynthesis as a process by which plants make food using sunlight",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "sunlight",
+                "light energy",
+                "food",
+                "green plants"
+            ],
+            "partial_keywords": [
+                "sunlight",
+                "plants"
+            ],
+            "examples": [
+                "Photosynthesis is how plants make food using sunlight"
+            ],
+            "common_mistakes": [
+                "Says photosynthesis does not need sunlight"
+            ]
+        },
+        {
+            "point_id": "p2",
+            "concept": "Site of Reaction",
+            "description": "Mentions chloroplast or chlorophyll as the site where photosynthesis occurs",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "chloroplast",
+                "chlorophyll"
+            ],
+            "partial_keywords": [
+                "chlorophyll"
+            ],
+            "examples": [
+                "Photosynthesis occurs in the chloroplasts which contain chlorophyll"
+            ]
+        },
+        {
+            "point_id": "p3",
+            "concept": "Raw Materials",
+            "description": "States carbon dioxide and water as the raw materials",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "carbon dioxide",
+                "water",
+                "CO2",
+                "H2O"
+            ],
+            "partial_keywords": [
+                "carbon dioxide",
+                "water"
+            ],
+            "common_mistakes": [
+                "Mentions oxygen as a raw material instead of a product"
+            ]
+        },
+        {
+            "point_id": "p4",
+            "concept": "Products",
+            "description": "States glucose and oxygen as the products of photosynthesis",
+            "marks": 2,
+            "is_required": true,
+            "partial_credit_allowed": true,
+            "keywords": [
+                "glucose",
+                "oxygen",
+                "C6H12O6",
+                "O2"
+            ],
+            "partial_keywords": [
+                "glucose",
+                "oxygen"
+            ],
+            "common_mistakes": [
+                "Says carbon dioxide is a product"
+            ]
+        },
+        {
+            "point_id": "p5",
+            "concept": "Chemical Equation",
+            "description": "Writes or describes the overall balanced equation correctly",
+            "marks": 2,
+            "is_required": false,
+            "partial_credit_allowed": false,
+            "keywords": [
+                "6CO2",
+                "6H2O",
+                "C6H12O6",
+                "6O2"
+            ],
+            "partial_keywords": [],
+            "examples": [
+                "6CO2 + 6H2O + Light Energy → C6H12O6 + 6O2"
+            ]
+        }
+    ],
+    "marking_scheme": {
+        "content_weight": 0.7,
+        "logic_weight": 0.2,
+        "grammar_weight": 0.1,
+        "passing_percentage": 40,
+        "distinction_percentage": 75
+    },
+    "min_word_count": 30,
+    "max_word_count": 200,
+    "allow_extra_points": true,
+    "penalty_for_hallucination": 2.0,
+    "version": "1.0",
+    "created_by": "teacher"
+}
